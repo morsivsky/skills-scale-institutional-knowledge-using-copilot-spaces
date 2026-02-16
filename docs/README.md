@@ -101,7 +101,7 @@ Explore our detailed process guides to learn more about each phase:
 
 We use GitHub issue templates to streamline common requests and improvements:
 
-- **[Add/Update Process Documentation](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)** - Request additions or updates to process documentation
+- **[Add/Update Process Documentation](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)** - Request additions or updates to process documentation
 
 Use these templates to contribute improvements to our project management processes and ensure your suggestions are properly reviewed and incorporated.
 
@@ -141,7 +141,7 @@ Regular communication keeps projects on track:
 
 Our processes evolve based on team experience and feedback. To suggest improvements:
 
-1. Use the [process documentation issue template](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)
+1. Use the [process documentation issue template](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)
 2. Clearly describe the gap or improvement opportunity
 3. Provide rationale and suggested content
 4. Engage in discussion with Process Owners and stakeholders

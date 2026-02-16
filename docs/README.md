@@ -94,7 +94,7 @@ Explore our detailed process guides to learn more about each phase:
 ### General Tips:
 - Keep documentation living and up-to-date - don't let it become stale
 - Use the issue templates (see below) to request process improvements
-- Lean on your Project Manager and Product Manager for guidance
+- Lean on your Project Manager and Product Lead for guidance
 - Participate actively in retrospectives to help improve our processes
 
 ## Issue Templates

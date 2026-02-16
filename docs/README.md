@@ -76,14 +76,17 @@ Explore our detailed process guides to learn more about each phase:
 
 8. **[Roles and Personas](octoacme-roles-and-personas.md)** - Understand the responsibilities and goals of each role in our project teams
 
+9. **[Persona Onboarding Checklist](persona-onboarding-checklist.md)** - Onboard new team members or transition roles with this comprehensive checklist
+
 ## Getting Started for New Team Members
 
 ### If you're joining an existing project:
 1. Review the **[Project Management Overview](octoacme-project-management-overview.md)** to understand our core principles
 2. Read the **[Roles and Personas](octoacme-roles-and-personas.md)** guide to understand your role and responsibilities
-3. Locate your project's charter or one-pager (usually in the project repo's `docs/` or `.copilot/` folder)
-4. Review the project board and backlog to understand current priorities
-5. Attend the next standup or sync meeting to introduce yourself
+3. Use the **[Persona Onboarding Checklist](persona-onboarding-checklist.md)** to ensure a complete onboarding experience
+4. Locate your project's charter or one-pager (usually in the project repo's `docs/` or `.copilot/` folder)
+5. Review the project board and backlog to understand current priorities
+6. Attend the next standup or sync meeting to introduce yourself
 
 ### If you're starting a new project:
 1. Begin with **[Project Initiation](octoacme-project-initiation.md)** to create your project one-pager
@@ -123,6 +126,7 @@ Most process documents include inline templates and checklists:
 - Backlog Item Template (in [Project Planning](octoacme-project-planning.md))
 - Risk Register format (in [Risks and Communication](octoacme-risks-and-communication.md))
 - Retrospective format (in [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md))
+- Persona Onboarding Checklist (in [Persona Onboarding Checklist](persona-onboarding-checklist.md))
 
 ### Using `.copilot/` Directories
 Add project-specific process documents to your repository's `.copilot/` folder to enable GitHub Copilot Spaces to provide context-aware assistance during development and planning activities.
